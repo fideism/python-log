@@ -1,6 +1,6 @@
 # python-package
 
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/fideism/laravel-packages/blob/master/LICENSE)
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/fideism/python-packages/blob/master/LICENSE)
 
 Simple python class
 
