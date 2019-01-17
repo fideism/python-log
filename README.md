@@ -5,9 +5,15 @@
 Simple python class
 
 ## log
-
 record log
 ```
 # level defaule info
 log_base.LogBase(message, level)
+```
+
+## mysql
+mysql connection
+```
+#config.py 
+mysql_base.MysqlBase()
 ```
